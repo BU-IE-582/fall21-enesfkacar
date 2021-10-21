@@ -1,32 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Enes Kacar's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-baydoganmustafa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesfkacar/) created for IE 582 course at Bogazici University. You can also visit my personal Github [Website](https://enesfkacar.github.io/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Homework Assignments
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+There will be several homework assignments done for this course.
 
 ### Jekyll Themes
 
