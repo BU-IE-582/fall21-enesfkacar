@@ -4,5 +4,5 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesfka
 
 ## Homework Assignments
 
-### [Homework 1](https://github.com/BU-IE-582/fall21-enesfkacar/blob/gh-pages/Homework%201.html)
+### [Homework 1](https://bu-ie-582.github.io/fall21-enesfkacar/Homework%201.html)
 
