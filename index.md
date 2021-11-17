@@ -10,3 +10,5 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesfka
 [Report](https://bu-ie-582.github.io/fall21-enesfkacar/Homework%201.html)
 
 ### Homework 2
+
+[Report](https://github.com/BU-IE-582/fall21-enesfkacar/blob/gh-pages/HW%202.html)
